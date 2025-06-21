@@ -1,2 +1,2 @@
 # html-Techblog
-Just started Learning Web development, This is my first HTML only Capstone project.
+Just started Learning Web development, This is my first HTML AND CSS only Capstone project.
