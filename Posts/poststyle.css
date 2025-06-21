@@ -49,3 +49,12 @@ footer{
 footer>a{
     color: white;
 }
+
+@media (max-width: 680px){
+
+
+.text{
+    width: 100%;
+    margin: 0%;
+}
+}
