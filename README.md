@@ -1,6 +1,6 @@
 # 404.INSIGHTS
-Just started Learning Web development, This is my first HTML AND CSS only Capstone project.
+Learning WebDe............ This is my first HTML & CSS only CAPSTONE
 <br>
-https://rishit-grg.github.io/404.INSIGHTS/
+LIVE LINK : https://rishit-grg.github.io/404.INSIGHTS/
 <br>
 Author- Rishit Garg 
